@@ -16,7 +16,7 @@ public class SimpleInterestCalculator {
         double simpleInterest = (principal * rate * time) / 100;
 
        System.out.println("The Simple Interest is: " + simpleInterest);
-
+       System.out.println("This is Simple Interest");
         scanner.close();
     }
 }
